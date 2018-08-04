@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='mct.conf'
-CONFIGFOLDER='/root/.mct'
+CONFIGFOLDER='/root/.mctcore'
 COIN_DAEMON='mctd'
 COIN_CLI='mct-cli'
 COIN_PATH='/usr/local/bin/'
