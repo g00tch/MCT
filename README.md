@@ -11,16 +11,16 @@ If you require further assistance contact the support team @ [Discord](https://d
 4) **An SSH client such as [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe)**
 ***
 ## Contents
-* **Section A**: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7296974).
+* **Section A**: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7475078).
 * **Section B**: Downloading and installing Bitvise.
 * **Section C**: Connecting to the VPS and installing the MN script via Bitvise.
 * **Section D**: Preparing the local wallet.
 * **Section E**: Connecting & Starting the masternode.
 ***
 
-## Section A: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7296974) 
+## Section A: Creating the VPS within [Vultr](https://www.vultr.com/?ref=7475078) 
 ***Step 1***
-* Register at [Vultr](https://www.vultr.com/?ref=7296974)
+* Register at [Vultr](https://www.vultr.com/?ref=7475078)
 ***
 
 ***Step 2***
@@ -102,7 +102,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`wget -q https://raw.githubusercontent.com/Realbityoda/MCT/master/mct_install.sh`
+`wget -q https://github.com/g00tch/MCT/raw/master/mct_install.sh`
 ***
 
 ***Step 8***
